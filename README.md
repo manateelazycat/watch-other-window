@@ -10,9 +10,7 @@ But when you view same buffer with two window,
 you will lost position of current window
 when you do `scroll-other-window' with same buffer.
 
-So `watch-other-window' will fix this problem.
-
-This extension always keep your current position when you scroll other window.
+So `watch-other-window' fix this problem that always keep your current position when you scroll other window.
 
 ## Installation
 
